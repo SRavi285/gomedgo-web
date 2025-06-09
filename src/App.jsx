@@ -6,8 +6,8 @@ import {
 } from "react-router-dom";
 import Header from "../src/layout/Header";
 import Home from "../src/pages/Home";
-import About from "../src/Pages/About";
-import Contact from "../src/Pages/Contact";
+import About from "../src/pages/About";
+import Contact from "../src/pages/Contact";
 import Footer from "../src/layout/Footer";
 import ECareTaker from "./pages/ECareTaker";
 import BabyCaretaker from "./pages/BabyCaretaker";
