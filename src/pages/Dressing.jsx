@@ -3,9 +3,9 @@ import { useNavigate } from "react-router-dom";
 import CaretakerSummary from "../component/CaretakerSummary";
 import logo from "../assets/icons/vaccine.png";
 import LocationForm from "../component/LocationForm";
-import CalendarStrip from "../Component/CalendarStrip";
-import MultiDatePicker from "../Component/MultiDatePicker";
-import TimeSlotSelector from "../Component/TimeSlotSelector";
+import CalendarStrip from "../component/CalendarStrip";
+import MultiDatePicker from "../component/MultiDatePicker";
+import TimeSlotSelector from "../component/TimeSlotSelector";
 
 import sun from "../assets/images/sun.png";
 import moon from "../assets/images/moon.png";
