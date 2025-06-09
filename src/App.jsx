@@ -5,7 +5,7 @@ import {
   useLocation,
 } from "react-router-dom";
 import Header from "../src/layout/Header";
-import Home from "../src/Pages/Home";
+import Home from "../src/pages/Home";
 import About from "../src/Pages/About";
 import Contact from "../src/Pages/Contact";
 import Footer from "../src/layout/Footer";
